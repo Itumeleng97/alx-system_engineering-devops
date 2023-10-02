@@ -3,4 +3,4 @@
 # Use the 'pwd' command to get the absolute path of the current directory
 current_directory=$(pwd)
 
-  echo  $current_directory"
+echo "$current_directory"  # Fix: Added a closing quotation marks
