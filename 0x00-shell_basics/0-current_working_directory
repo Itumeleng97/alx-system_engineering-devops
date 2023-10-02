@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Use the 'pwd' command to get the absolute path of the current directory
+current_directory=$(pwd)
+
+  echo  $current_directory"
